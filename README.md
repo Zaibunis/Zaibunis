@@ -26,4 +26,4 @@
 
 𝐋𝐢𝐧𝐤𝐞𝐝𝐈𝐧 𝐔𝐑𝐋 🔗
 
-🔗 [𝐋𝐢𝐧𝐤𝐞𝐝𝐈𝐧] [www.linkedin.com/in/zainab-mustaqeem-3367b5301]
+🔗 [𝐋𝐢𝐧𝐤𝐞𝐝𝐈𝐧] [www.linkedin.com/in/faria-mustaqeem-3367b5301]
