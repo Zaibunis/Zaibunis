@@ -42,5 +42,5 @@ I’m also exploring the next frontier — diving into *Generative AI, **OpenAI 
 <p align="center">
   <a href="mailto:zainabmustaqeem32@gmail.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/faria-mustaqeem-3367b5301"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="[https://twitter.com/fariamustaqeem](https://x.com/Faria1539114)"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://x.com/Faria1539114"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
