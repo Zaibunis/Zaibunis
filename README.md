@@ -40,13 +40,13 @@ I’m also exploring the next frontier — diving into *Generative AI, **OpenAI 
 ## 🌍 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/faria-mustaqeem-3367b5301">
+  <a href="https://www.linkedin.com/in/faria-mustaqeem-3367b5301" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://x.com/Faria1539114">
+  <a href="https://x.com/Faria1539114" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/profile.php?id=61577614329277&__cft__[0]=AZXkg-3rmWDIxKAing4CwlkeQC41gF_8bDUmIYkZFxxLKNhNZ74g0HjTsB6L49j8BB16NJ_s4Q9hx56SzaM492zzdTBvm5cMGVFiu8pcdMC4Tp9chuL-VKfOgb9oFXU7-Ybv3lqMc_x6hRwopca5bHkhshp0Gld6RxTHnDP01SqxVg&__tn__=-]C%2CP-R">
+  <a href="https://www.facebook.com/profile.php?id=61577614329277" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
