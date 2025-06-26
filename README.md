@@ -1,4 +1,7 @@
-<h1 align="center">🚀 <span style="color:#00FFFF"><strong>Faria Mustaqeem</strong></span> | Front-End Developer</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=9F79EE&center=true&vCenter=true&width=435&lines=Hi+I'm+Faria+Mustaqeem;Front-End+Developer;Open+Source+Contributor" alt="Typing SVG" />
+</p>
+
 
 
 <p align="center">
