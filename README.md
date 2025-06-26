@@ -40,6 +40,14 @@ I’m also exploring the next frontier — diving into *Generative AI, **OpenAI 
 ## 🌍 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/faria-mustaqeem-3367b5301"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/Faria1539114"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/faria-mustaqeem-3367b5301">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/Faria1539114">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/photo/?fbid=122103916508920477&set=a.122103916610920477">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
 </p>
+
