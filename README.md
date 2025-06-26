@@ -25,7 +25,6 @@ I’m also exploring the next frontier — diving into *Generative AI, **OpenAI 
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Zaibunis&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.demolab.com/?user=Zaibunis&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 <p align="center">
