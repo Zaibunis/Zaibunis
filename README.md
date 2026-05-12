@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./profile.jpg" width="180" style="border-radius:50%" />
+<img src="./profile.jpeg" width="180" style="border-radius:50%" />
 
 # Hi, I'm Faria Mustaqim 👋
 
@@ -8,20 +8,20 @@
 Bridging the gap between human-centric design and machine-driven automation.
 
 <p align="center">
-  <a href="https://your-portfolio-link.com">
+  <a href="https://faria-mustaqim.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   
-  <a href="https://linkedin.com/in/your-link">
+  <a href="https://www.linkedin.com/in/faria-mustaqim-khan-2a78a4368">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="mailto:your@email.com">
+  <a href="fariamustaqim@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=yourgithubusername&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?Zaibunis=Zaibunis&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
@@ -97,21 +97,21 @@ I focus on building hybrid experiences that combine modern frontend engineering 
 # 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?Zaibunis=Zaibunise&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourgithubusername&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?Zaibunis=Zaibunis&theme=tokyonight" />
 </p>
 
 ---
 
 # 📫 Connect With Me
 
-- 🌐 Portfolio → https://your-portfolio-link.com
-- 💼 LinkedIn → https://linkedin.com/in/your-link
-- 📧 Email → your@email.com
-- 🐙 GitHub → https://github.com/yourgithubusername
+- 🌐 Portfolio → https://faria-mustaqim.vercel.app/
+- 💼 LinkedIn → https://www.linkedin.com/in/faria-mustaqim-khan-2a78a4368
+- 📧 Email → fariamustaqim@gmail.com
+- 🐙 GitHub → https://github.com/Zaibunis
 
 ---
 
@@ -125,16 +125,8 @@ I focus on building hybrid experiences that combine modern frontend engineering 
 
 ---
 
-# ⚡ Fun Fact
-
-Always exploring the future of autonomous systems, modern frontend experiences, and intelligent workflows.
-
-✨ If you'd like to collaborate, build something meaningful, or just connect — feel free to reach out.
-
----
-
 <div align="center">
 
-⭐ If you like my work, feel free to follow and star the repositories you find useful!
+If you like my work, feel free to follow and ⭐ the repositories you find helpful!
 
 </div>
