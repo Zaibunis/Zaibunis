@@ -21,7 +21,7 @@ Bridging the gap between human-centric design and machine-driven automation.
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?Zaibunis=Zaibunis&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Zaibunis&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
