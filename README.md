@@ -97,13 +97,12 @@ I focus on building hybrid experiences that combine modern frontend engineering 
 # 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?Zaibunis=Zaibunise&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zaibunis&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?Zaibunis=Zaibunis&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zaibunis&theme=tokyonight" />
 </p>
-
 ---
 
 # 📫 Connect With Me
