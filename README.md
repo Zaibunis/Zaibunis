@@ -1,16 +1,140 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Zaibunis/Zaibunis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./profile.jpg" width="180" style="border-radius:50%" />
 
-Here are some ideas to get you started:
+# Hi, I'm Faria Mustaqim 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend & Agentic AI Engineer  
+Bridging the gap between human-centric design and machine-driven automation.
+
+<p align="center">
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  
+  <a href="https://linkedin.com/in/your-link">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=yourgithubusername&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
+
+---
+
+# 👩‍💻 About Me
+
+I'm **Faria Mustaqim**, a frontend developer and Agentic AI engineer passionate about building polished digital experiences and intelligent autonomous systems.
+
+- 🔭 Building fast, scalable, and SEO-friendly web applications using **Next.js, TypeScript, Tailwind CSS, and Vercel**
+- 🤖 Developing autonomous AI systems with **Python, FastAPI, OpenAI Agent SDK, Streamlit, and Chainlit**
+- 🌱 Exploring advanced **agentic architectures, automation workflows, and scalable AI engineering**
+- 💡 Focused on creating products that are modern, high-performing, and deeply human-centered
+- 💬 Ask me about **Next.js, TypeScript, Python, Agentic AI Systems, FastAPI, and Prompt Engineering**
+
+---
+
+# 🛠️ Technical Arsenal
+
+## 🚀 Frontend Development
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+
+---
+
+## 🤖 AI & Backend
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![OpenAI](https://img.shields.io/badge/OpenAI-Agent_SDK-black?style=for-the-badge&logo=openai)
+![Streamlit](https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit)
+![Chainlit](https://img.shields.io/badge/Chainlit-6C63FF?style=for-the-badge)
+
+---
+
+## ⚡ Automation & Workflow
+- n8n Automation
+- Prompt Engineering
+- Autonomous Agent Systems
+- API Integrations
+- AI Workflow Orchestration
+
+---
+
+# 🧠 Core Skills
+
+| Skill | Level |
+|------|------|
+| Frontend Development | 95% |
+| Agentic AI Systems | 90% |
+| Python Development | 88% |
+| Prompt Engineering | 92% |
+| n8n Automation | 85% |
+| Responsive Web Development | 87% |
+
+---
+
+# 🚀 Projects & Work
+
+I focus on building hybrid experiences that combine modern frontend engineering with intelligent AI systems — from sleek web applications to autonomous agents.
+
+### ✨ Areas I Work On
+- Production-ready Next.js applications
+- Agentic AI experiments & workflows
+- AI-powered automation systems
+- SEO-friendly frontend experiences
+- Real-time intelligent interfaces
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourgithubusername&theme=tokyonight" />
+</p>
+
+---
+
+# 📫 Connect With Me
+
+- 🌐 Portfolio → https://your-portfolio-link.com
+- 💼 LinkedIn → https://linkedin.com/in/your-link
+- 📧 Email → your@email.com
+- 🐙 GitHub → https://github.com/yourgithubusername
+
+---
+
+# 🔎 What I’m Looking For
+
+- Collaborations on AI-first and agentic systems
+- Frontend & AI engineering opportunities
+- Freelance and contract projects
+- Teams building scalable autonomous products
+- Creative projects blending design with intelligence
+
+---
+
+# ⚡ Fun Fact
+
+Always exploring the future of autonomous systems, modern frontend experiences, and intelligent workflows.
+
+✨ If you'd like to collaborate, build something meaningful, or just connect — feel free to reach out.
+
+---
+
+<div align="center">
+
+⭐ If you like my work, feel free to follow and star the repositories you find useful!
+
+</div>
