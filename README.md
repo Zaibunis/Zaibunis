@@ -1,193 +1,436 @@
 <div align="center">
 
-<img src="./profile.jpeg" alt="Faria Mustaqim" width="200" height="200" style="border-radius: 50%; object-fit: cover;" />
+<br>
 
-# 👋 Hi, I'm Faria Mustaqim
+<img src="./profile.jpeg" alt="Faria Mustaqim" width="180" height="180" style="border-radius: 50%;">
 
-### Frontend Engineer • Agentic AI Engineer • AI Automation Builder
+<br>
+<br>
+
+# Faria Mustaqim
+
+### Frontend Engineer  ·  Agentic AI Engineer  ·  AI Automation Builder
 
 <p>
-  <strong>Building modern digital experiences and intelligent autonomous systems.</strong>
+Building beautiful digital experiences and intelligent systems that solve real-world problems.
 </p>
 
-<p>
-  <a href="https://faria-mustaqim.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/faria-mustaqim-khan-2a78a4368">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:fariamustaqim@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Zaibunis">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=Zaibunis&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+<a href="https://faria-mustaqim.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/faria-mustaqim-khan-2a78a4368">
+<img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+&nbsp;
+<a href="mailto:fariamustaqim@gmail.com">
+<img src="https://img.shields.io/badge/Email-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+<br>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Zaibunis&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views">
 
 </div>
 
----
-
-## 👩‍💻 About Me
-
-I'm **Faria Mustaqim**, a **Frontend & Agentic AI Engineer** passionate about building products that combine beautiful interfaces, intelligent systems, and real-world automation.
-
-I enjoy working at the intersection of **frontend engineering and artificial intelligence**, creating applications that are not only visually polished but also intelligent, scalable, and user-focused.
-
-- 🔭 Building fast, scalable, and SEO-friendly web applications
-- 🤖 Developing AI-powered applications and autonomous agent systems
-- ⚡ Creating intelligent automation workflows and API integrations
-- 🎨 Designing modern, responsive, and human-centered digital experiences
-- 🌱 Exploring advanced agentic architectures and AI engineering
-- 💡 Interested in building products where **design meets intelligence**
-
-### 💬 Ask me about
-
-`Next.js` • `React` • `TypeScript` • `Python` • `FastAPI` • `Agentic AI` • `OpenAI Agent SDK` • `Prompt Engineering` • `n8n`
+<br>
 
 ---
-
-# 🛠️ Technical Arsenal
-
-### 🚀 Frontend Development
-
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-</p>
-
----
-
-### 🤖 AI & Backend Engineering
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/OpenAI-Agent_SDK-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Agent SDK" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/Chainlit-6C63FF?style=for-the-badge" alt="Chainlit" />
-</p>
-
----
-
-### ⚡ Automation & AI Workflows
-
-<p>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-6E56CF?style=for-the-badge" alt="Prompt Engineering" />
-  <img src="https://img.shields.io/badge/AI_Agents-111827?style=for-the-badge" alt="AI Agents" />
-  <img src="https://img.shields.io/badge/API_Integrations-2563EB?style=for-the-badge" alt="API Integrations" />
-  <img src="https://img.shields.io/badge/Workflow_Automation-059669?style=for-the-badge" alt="Workflow Automation" />
-</p>
-
----
-
-# 🧠 Core Expertise
-
-| Area | Expertise |
-| :--- | :---: |
-| Frontend Engineering | ⭐⭐⭐⭐⭐ |
-| Agentic AI Systems | ⭐⭐⭐⭐⭐ |
-| Python Development | ⭐⭐⭐⭐⭐ |
-| Prompt Engineering | ⭐⭐⭐⭐⭐ |
-| AI Automation | ⭐⭐⭐⭐ |
-| n8n Workflows | ⭐⭐⭐⭐ |
-| Responsive Web Development | ⭐⭐⭐⭐⭐ |
-| API Integration | ⭐⭐⭐⭐⭐ |
-| SEO-Friendly Web Applications | ⭐⭐⭐⭐⭐ |
-
----
-
-# 🚀 What I Build
-
-I specialize in creating **hybrid digital experiences** that combine modern frontend engineering with intelligent AI systems.
-
-### 🌐 Modern Web Applications
-
-Building production-ready web experiences using:
-
-- Next.js & React
-- TypeScript
-- Tailwind CSS
-- Responsive UI/UX
-- SEO optimization
-- Performance-focused architecture
-
-### 🤖 Agentic AI Systems
-
-Exploring and building intelligent systems using:
-
-- AI Agents
-- OpenAI Agent SDK
-- Python
-- FastAPI
-- Prompt Engineering
-- Autonomous workflows
-- Multi-step reasoning systems
-
-### ⚡ AI Automation
-
-Creating workflows that connect:
-
-- AI models
-- APIs
-- Business processes
-- Automation platforms
-- Intelligent agents
-
----
-
-# 💼 Featured Focus Areas
 
 <div align="center">
 
-| 💻 Frontend | 🤖 AI Engineering | ⚡ Automation |
+## 👩‍💻 About Me
+
+</div>
+
+I'm **Faria Mustaqim**, a **Frontend & Agentic AI Engineer** passionate about building modern digital products that combine **beautiful user experiences, intelligent AI systems, and powerful automation**.
+
+My work sits at the intersection of:
+
+> **Frontend Engineering** × **Artificial Intelligence** × **Automation**
+
+I enjoy transforming ideas into scalable applications — from polished **Next.js interfaces** to intelligent **AI agents and autonomous workflows**.
+
+<br>
+
+<div align="center">
+
+| 🌐 Frontend | 🤖 AI Engineering | ⚡ Automation |
 | :---: | :---: | :---: |
 | Next.js | Agentic AI | n8n |
 | React | Python | AI Workflows |
 | TypeScript | FastAPI | API Integrations |
-| Tailwind CSS | OpenAI Agent SDK | Process Automation |
+| Tailwind CSS | OpenAI Agent SDK | Intelligent Automation |
 
 </div>
 
----
+<br>
 
-# 📊 GitHub Statistics
+---
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Zaibunis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Faria's GitHub Stats" />
-
-<br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zaibunis&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaibunis&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+## 🚀 What I Do
 
 </div>
 
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+### 🌐 Frontend Engineering
+
+Building fast, responsive and modern web applications with a strong focus on performance and user experience.
+
+<br>
+
+`Next.js`
+
+`React`
+
+`TypeScript`
+
+`Tailwind CSS`
+
+`SEO`
+
+`Responsive UI`
+
+</td>
+
+<td width="33%" align="center">
+
+### 🤖 Agentic AI
+
+Designing intelligent systems that can reason, interact with tools, and execute multi-step workflows.
+
+<br>
+
+`Python`
+
+`FastAPI`
+
+`OpenAI Agent SDK`
+
+`AI Agents`
+
+`Prompt Engineering`
+
+`LLM Systems`
+
+</td>
+
+<td width="33%" align="center">
+
+### ⚡ AI Automation
+
+Connecting AI with real-world processes to build efficient and intelligent automated workflows.
+
+<br>
+
+`n8n`
+
+`API Integrations`
+
+`AI Workflows`
+
+`Automation`
+
+`Agents`
+
+`Orchestration`
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
 ---
 
-# 🌱 Currently Exploring
+<div align="center">
 
-```text
-Agentic AI Architectures
-        ↓
-Autonomous AI Systems
-        ↓
-AI-Powered Automation
-        ↓
-Intelligent Web Applications
-        ↓
-Human-Centered Product Experiences
+## 🛠️ Technology Stack
+
+### Frontend
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,html,css,vercel" alt="Frontend Technologies">
+
+<br>
+<br>
+
+### Backend & AI
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,fastapi" alt="Backend Technologies">
+
+<br>
+<br>
+
+<img src="https://img.shields.io/badge/OpenAI-Agent_SDK-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Agent SDK">
+&nbsp;
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
+&nbsp;
+<img src="https://img.shields.io/badge/Chainlit-6C63FF?style=for-the-badge" alt="Chainlit">
+
+<br>
+<br>
+
+### Automation & Workflow
+
+<br>
+
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
+&nbsp;
+<img src="https://img.shields.io/badge/Prompt_Engineering-6C63FF?style=for-the-badge" alt="Prompt Engineering">
+&nbsp;
+<img src="https://img.shields.io/badge/AI_Agents-111827?style=for-the-badge" alt="AI Agents">
+&nbsp;
+<img src="https://img.shields.io/badge/API_Integration-2563EB?style=for-the-badge" alt="API Integration">
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## 💡 My Engineering Philosophy
+
+<br>
+
+<table>
+<tr>
+<td align="center">
+
+### 🎨 Design
+
+Create interfaces that feel intuitive, modern and human.
+
+</td>
+
+<td align="center">
+
+### ⚡ Performance
+
+Build applications that are fast, scalable and reliable.
+
+</td>
+
+<td align="center">
+
+### 🧠 Intelligence
+
+Use AI to make products smarter and more useful.
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+> **I believe the best products combine great design with intelligent technology.**
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## 🚀 Areas I Work On
+
+</div>
+
+<table>
+<tr>
+<td>
+
+### 💻 Web Applications
+
+- Production-ready Next.js applications
+- Responsive and accessible interfaces
+- SEO-friendly architecture
+- High-performance frontend systems
+- Modern UI/UX experiences
+
+</td>
+
+<td>
+
+### 🤖 Intelligent Systems
+
+- AI-powered applications
+- Autonomous agent systems
+- Multi-step AI workflows
+- Intelligent interfaces
+- AI-assisted developer tools
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### ⚙️ Backend Systems
+
+- Python applications
+- FastAPI services
+- API integrations
+- AI backend architecture
+- Scalable system design
+
+</td>
+
+<td>
+
+### 🔄 Automation
+
+- n8n workflows
+- AI automation
+- Business process automation
+- API orchestration
+- Intelligent task execution
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Activity
+
+<br>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Zaibunis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats">
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Zaibunis&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+
+<br>
+<br>
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaibunis&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## 🌱 Currently Exploring
+
+<br>
+
+`Advanced Agentic Architectures`
+
+&nbsp; · &nbsp;
+
+`Autonomous AI Systems`
+
+&nbsp; · &nbsp;
+
+`AI Workflow Orchestration`
+
+<br>
+<br>
+
+`AI-Powered Web Applications`
+
+&nbsp; · &nbsp;
+
+`Intelligent Automation`
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## 🎯 What I'm Looking For
+
+<br>
+
+🤝 **AI-first collaborations**
+
+&nbsp; • &nbsp;
+
+🤖 **Agentic AI projects**
+
+&nbsp; • &nbsp;
+
+💻 **Frontend & AI Engineering**
+
+<br>
+
+⚡ **Freelance & Contract Work**
+
+&nbsp; • &nbsp;
+
+🚀 **Innovative Product Teams**
+
+<br>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## 📫 Let's Build Something Intelligent
+
+<br>
+
+If you're working on something exciting at the intersection of **technology, AI, automation, and design**, I'd love to connect.
+
+<br>
+
+<a href="https://faria-mustaqim.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/faria-mustaqim-khan-2a78a4368">
+<img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+&nbsp;
+<a href="mailto:fariamustaqim@gmail.com">
+<img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+<br>
+<br>
+
+<a href="https://github.com/Zaibunis">
+<img src="https://img.shields.io/badge/GitHub-Follow_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<br>
+<br>
+
+⭐ **If you like my work, consider following me or starring a repository!**
+
+<br>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer" width="100%" alt="Footer">
+
+</div>
