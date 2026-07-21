@@ -315,23 +315,11 @@ Use AI to make products smarter and more useful.
 
 ## 📊 GitHub Activity
 
-<br>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Zaibunis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats">
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Zaibunis&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-
-<br>
-<br>
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaibunis&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
-
-</div>
-
-<br>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zaibunis&theme=tokyonight" />
+</p>
 
 ---
-
-<div align="center">
 
 ## 🌱 Currently Exploring
 
