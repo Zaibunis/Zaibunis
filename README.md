@@ -7,7 +7,7 @@
 <br>
 <br>
 
-# Faria Mustaqim
+# Faria Mustaqim 👋
 
 ### Frontend Engineer  ·  Agentic AI Engineer  ·  AI Automation Builder
 
