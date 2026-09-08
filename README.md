@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./profile.jpeg" alt="Faria Mustaqim" width="150" height="150" style="border-radius: 50%;">
+<img src="./profile" alt="Faria Mustaqim" width="150" height="150" style="border-radius: 50%;">
 
 # Faria Mustaqim
 
