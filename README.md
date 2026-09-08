@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="./profile" alt="Faria Mustaqim" width="100%">
+<img src="./profile" alt="Faria Mustaqim - I Build AI-Powered Web Experiences" width="100%">
 
-# Faria Mustaqim
-
-**Frontend Engineer · Agentic AI Engineer · AI Automation Builder**
-
-Building beautiful digital experiences and intelligent systems that solve real-world problems.
+<br><br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://faria-mustaqim.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faria-mustaqim-khan-2a78a4368)
