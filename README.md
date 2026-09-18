@@ -1,3 +1,5 @@
+<a href="https://gitroll.io/profile/uCDJoWnMaZOepIzS34rFZc2pf82f2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uCDJoWnMaZOepIzS34rFZc2pf82f2?theme=dark" alt="GitRoll Profile Badge"/></a>
+
 <div align="center">
 
 <img src="./profile" alt="Faria Mustaqim - I Build AI-Powered Web Experiences" width="100%">
